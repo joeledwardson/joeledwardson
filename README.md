@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @joeledwardson
-- 👀 I’m interested in python and web development
+- 👀 I’m interested in typescript and web development
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on sports and trading algorithms and visualisation
